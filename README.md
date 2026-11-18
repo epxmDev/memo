@@ -23,10 +23,6 @@ Memo is a minimalist note-taking tool built in Rust. It opens a responsive termi
 
 Everything runs locally. No telemetry, no account, and no cloud synchronization.
 
-## Screenshots
-
-Screenshots can be added to `assets/screenshots/` and linked here.
-
 ## Features
 
 - **Interactive REPL** — Launch `memo` and type commands at the `memo> ` prompt.
